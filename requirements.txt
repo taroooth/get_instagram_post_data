@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+requests
+gspread
+oauth2client
+gspread_formatting
+pytz
+selenium
+chromedriver_binary
+google-cloud-error-reporting==0.30.0
+setuptools
